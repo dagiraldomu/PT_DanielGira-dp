@@ -1,0 +1,10 @@
+-----LEEME------
+Para instalar el servidor local es necesario tener XAMPP y debe seguir los pasos descritos en:
+https://www.webempresa.com/blog/migrar-wordpress-hosting-local-xampp-server.html
+Teniendo encuenta que ya tiene los "archivos de hosting"(La carpeta "wordpress") y la base de datos (wordp.sql) 
+Seguir a partir del paso "Copiar archivos en nuestro servidor local"
+para ingresar al Wordpress:
+Usuario: dagiraldomu
+Contraseña: dagiraldomu
+
+Gracias por la atención!!
